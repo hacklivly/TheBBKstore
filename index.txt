@@ -1,10 +1,10 @@
-Glowing - Reveal The Beauty of Skin
+TheBBKstore - Be Treandy
 
 
 
 #---------- HEADER ----------#
 
-Free Shipping On All U.S. Orders $50+
+Free Shipping On All U.S. Orders ₹5000+
 
 aria-label = open menu
 
@@ -14,7 +14,7 @@ aria-label = search
 
 <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
 
-alt = Glowing
+alt = Treands
 
 aria-label = user
 
@@ -27,7 +27,7 @@ aria-label = favourite item
 
 aria-label = cart item
 
-$0.00
+₹1990.00
 <ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
 0
 
@@ -41,7 +41,7 @@ Blog
 
 #---------- MOBILE NAVBAR ----------#
 
-alt = Glowing
+alt = Treands
 
 aria-label = close menu
 
@@ -57,12 +57,11 @@ Blog
 
 #---------- HERO ----------#
 
-Reveal The
-Beauty of Skin
+TheBBKstore - Be Treandy
 
-Made using clean, non-toxic ingredients, our products are designed for everyone.
+our products are designed for everyone.
 
-Starting at $7.99
+Starting at ₹1799
 
 Shop Now
 
@@ -72,21 +71,21 @@ Shop Now
 
 Summer Collection
 
-Starting at $17.99
+Starting at ₹1799
 
 Shop Now
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
 What’s New?
 
-Get the glow
+Get the Trends
 
 Discover Now
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-Buy 1 Get 1
+Buy 3 Get 1
 
-Starting at $7.99
+Starting at ₹1799
 
 Discover Now
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
@@ -114,8 +113,8 @@ aria-label = add to whishlist
 aria-label = compare
 <ion-icon name="repeat-outline" aria-hidden="true"></ion-icon>
 
-$39.00
-$29.00
+₹3999.00
+₹2299.00
 
 Facial cleanser
 
@@ -145,7 +144,7 @@ alt = Coffee Bean Caffeine Eye Cream
 
 Coffee Bean Caffeine Eye Cream
 
-Under $25
+Under ₹2499
 
 Shop All Products
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
@@ -212,7 +211,7 @@ aria-label = minutes
 aria-label = seconds
 08
 
-Get Only $39.00
+Get Only ₹1699.00
 
 
 
@@ -267,14 +266,14 @@ placeholder = Enter your email address
 
 Subscribe
 
-&copy; 2022 codewithsadee
+&copy; 2025 Harsh
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
-alt = Glowing
+alt = Trends
 
 alt = available all payment method
 
